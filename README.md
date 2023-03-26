@@ -1,6 +1,6 @@
 ## Olá! Prazer me chamo Davi Jose!  
 
-- 🔭 Hoje trabalho com Back End usando a linguagem JAVA
+- 🔭 Hoje trabalho como FullStack usando a linguagem JAVASCRIPT
 - 🌱 Estou estudando atualmente Tecnólogo em Analise e desemvolvimento de sistemas
 - 😄 Pronomes: ele/dele
 
